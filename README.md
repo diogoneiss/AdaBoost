@@ -8,7 +8,7 @@ O trabalho foi feito num ambiente _virtual_ do Python, cujas dependências estã
 
 ## Arquivos
 
-O arquivo principal está na pasta `/notebooks`, com o nome `main.ipynb`. O `sklearn.ipynb` é um _notebook_ de testes e experimentos com a biblioteca _scikit-learn_ para criação dos benchmarks.
+O arquivo principal está na pasta `/notebooks`, com o nome `main.ipynb`.
 
 A pasta `/images` será criada após execução do notebook principal
 
