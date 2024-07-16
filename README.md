@@ -1,6 +1,6 @@
 # AdaBoost
 
-Trabalho Prático 2 da disciplina de Aprendizado de Máquina 2024/1
+Trabalho Prático 2 da disciplina de Aprendizado de Máquina 2024/1. Relatório disponível em [relatorio.pdf](relatorio.pdf) ou [site relatório](https://nonstop-ship-41c.notion.site/Relat-rio-TP2-ML-e377c3e37cf149ab8922c819bf1fba8b).
 
 ## Dependências
 
